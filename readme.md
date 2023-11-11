@@ -14,7 +14,7 @@
 
 如果需要了解后续进展可以关注~~b 站账号：[不想睡觉猫头猫](https://space.bilibili.com/12866223)~~(不到一天就被吞了！还是关注公众号↓吧)；如果有问题可以在 issue 区或者公众号反馈。
 
-简介视频放在了公众号里：[简介视频](https://mp.weixin.qq.com/s/sH_2vRm7EyBGgWggkJmsdg)
+简介视频放在了公众号里https://mp.weixin.qq.com/s/sH_2vRm7EyBGgWggkJmsdg
 
 ![微信公众号](./src/assets/imgs/wechat_channel.jpg)
 
